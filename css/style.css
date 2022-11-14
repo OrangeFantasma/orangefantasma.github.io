@@ -1,6 +1,7 @@
 /* Set the scroll behavior to smooth so that when you click the in the header, the screen scrolls down rather than jumps */
 html {
   scroll-behavior: smooth;
+  background-color: #ffffff;
 }
 
 header,
@@ -10,7 +11,7 @@ footer {
 }
 
 header {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #48cae4;
   min-height: 100vh;
   display: flex;
@@ -29,7 +30,7 @@ main {
 }
 
 h1 {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
@@ -37,7 +38,7 @@ h1 {
 }
 
 h2 {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -62,7 +63,7 @@ img {
 .bio {
   color: #48cae4;
   font-size: 24px;
-  font-family: 'Work Sans';
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .buttonBox {
@@ -107,7 +108,7 @@ img {
 
 .mins {
   display: inline-block;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.3px;
@@ -118,7 +119,7 @@ img {
 }
 
 .description {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.29;
@@ -137,7 +138,7 @@ img {
 }
 
 .query {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.29;
@@ -149,7 +150,7 @@ img {
 
 .queryHead {
   color: cornflowerblue;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.29;
