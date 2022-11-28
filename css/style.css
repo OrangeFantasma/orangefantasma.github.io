@@ -4,6 +4,9 @@ html {
   background-color: #ffffff;
 }
 
+body {
+  margin: 0px; 
+}
 header,
 footer {
   background-color: #000000;
@@ -135,6 +138,10 @@ img {
   height: 21.1px;
   object-fit: contain;
   padding: 20px;
+}
+
+.queries {
+  margin: 10px;
 }
 
 .query {
