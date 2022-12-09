@@ -22,7 +22,7 @@ footer {
 
 header {
   font-family: 'Roboto', sans-serif;
-  color: #48cae4;
+  color: #56dbe4;
   min-height: 100vh;
   display: flex;
 }
@@ -53,7 +53,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: center;
-  color: #48cae4;
+  color: #1a7278;
   padding: 10px 0px 10px 10px;
 }
 
@@ -71,7 +71,7 @@ img {
 }
 
 .bio {
-  color: #48cae4;
+  color: #56dbe4;
   font-size: 24px;
   font-family: 'Roboto Condensed', sans-serif;
 }
@@ -84,9 +84,9 @@ img {
 
 .myButton {
   border-radius: 28px;
-  border: 1px solid #48cae4;
+  border: 1px solid #1a7278;
   cursor: pointer;
-  color: #48cae4;
+  color: #56dbe4;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
@@ -103,7 +103,7 @@ img {
 }
 
 .project {
-  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 3);
+  border: solid 1px #4a4a4a;
   width: 100%;
   margin-left: 10px;
   margin-right: 10px;
@@ -135,13 +135,13 @@ img {
   line-height: 1.29;
   letter-spacing: 0.1px;
   text-align: left;
-  color: #48cae4;
+  color: #1a7278;
   padding: 5px 10px 10px 10px;
   border-top: 1px solid #4a4a4a;
 }
 
 .queryHead {
-  color: cornflowerblue;
+  color: #1a7278;
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
   font-weight: 300;
